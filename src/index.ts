@@ -1,3 +1,5 @@
-const say: string = 'My Lord!';
+import { Basics } from "./basics";
 
-console.log(say);
+const basic = new Basics;
+
+basic.main();
