@@ -1,5 +1,1 @@
-import { Basics } from "./basics";
-
-const basic = new Basics;
-
-basic.main();
+console.log('Hello World!');
